@@ -1,0 +1,163 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+body{
+    background-size:cover;
+}
+header{
+    background-color: rgb(84, 197, 84);
+    height: 5em;
+}
+img{
+    margin-left: 10%;
+    margin-top: 5px;
+}
+
+.head-tag{
+    float: right;
+    margin-top: 33px;
+    margin-right: 55px;
+}
+
+.head-tag  a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration: none;
+    color: white;
+    border: 1px solid black;
+    padding: 8px;
+    margin-right: 8px;
+
+}
+
+.head-tag a:hover{
+    background-color:white;
+    color: black;
+    transition: 0.5s ease-in-out;
+}
+
+.sidebar{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+    padding: 100px;
+}
+.sidebar{
+    list-style-type: square circle;
+    margin-bottom: 5px;
+}
+
+/* login form */
+.login{
+    float: right;
+    border: 2px solid wheat;
+    background: beige;
+    height: 15rem;
+    margin-top: 5%;
+    margin-right: 2%;
+    padding: 30px;
+}
+.login h2{
+    text-align: center;
+}
+.login input{
+    height: 1.5em;
+}
+.login #submit{
+    width:100% ;
+    height: 1.8em;
+    color: white;
+    background-color: dodgerblue;
+    border: 1px solid dodgerblue;
+}
+.dis{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 50px;
+}
+/* P-box */
+.P-box{
+    margin-top: 3%;
+    border: 3px solid wheat;
+    margin-left: 45%;
+    width: 25%;
+    float: left;
+    margin-left: 10px;
+    height: 15em;
+    padding: 20px;
+    color:black;
+    background-color:white;
+}
+.P-box h3{
+text-align: center;
+text-transform: uppercase;
+text
+}
+.P-box{
+    line-height: 1.25em;
+    text-align: center;
+}
+.P-box a{
+    text-decoration: none;
+    color: black;
+    
+}
+.P-box{
+    
+}
+/* how to center image */
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* Footer */
+footer{
+    background-color: rgb(84, 197, 84);
+    color:black;
+    height: 1.5em;
+    margin-top:18%;
+}
+footer h3{
+    text-align:center;
+}
+.myMargin{
+    margin: 25px;
+}
+.details{
+    margin-left: 30px;
+    margin-right: 30px;
+}
+.fd{background-color: rgb(84, 197, 84);
+    color:black;
+    height: 2em;
+    margin-top:25%;
+    width: cover;
+    text-align: center;
+}
+.carimg{
+    width: auto;
+    height: 5cm;
+}
+.up{
+    width: auto;
+    height: auto;
+}
+footer h5{
+    text-align:center;
+}
+.dts{
+    margin-top: 110%;
+}
+pwd.style{
+    border="2px solid red";
+}
+.sign{
+  margin-left: 30px;
+}
+.sign button{
+    height: 1.8em;
+   background: dodgerblue; 
+   color: white;
+   border: 1px solid dodgerblue;
+}
